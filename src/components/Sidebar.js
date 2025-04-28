@@ -59,7 +59,7 @@ const Sidebar = () => {
                      color: "white",
                      fontWeight:"bold" }}
           >
-            DSI CENTER (React-Java-Excel)
+            DSI CENTER (React)
           </h1>
         </Nav>
         <SidebarNav sidebar={sidebar}>
