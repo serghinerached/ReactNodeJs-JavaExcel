@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactNodeJs-JavaExcel/static/css/main.e6048ab5.css",
+    "main.js": "/ReactNodeJs-JavaExcel/static/js/main.9a2df784.js",
+    "static/js/787.cc835116.chunk.js": "/ReactNodeJs-JavaExcel/static/js/787.cc835116.chunk.js",
+    "index.html": "/ReactNodeJs-JavaExcel/index.html",
+    "main.e6048ab5.css.map": "/ReactNodeJs-JavaExcel/static/css/main.e6048ab5.css.map",
+    "main.9a2df784.js.map": "/ReactNodeJs-JavaExcel/static/js/main.9a2df784.js.map",
+    "787.cc835116.chunk.js.map": "/ReactNodeJs-JavaExcel/static/js/787.cc835116.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6048ab5.css",
+    "static/js/main.9a2df784.js"
+  ]
+}
